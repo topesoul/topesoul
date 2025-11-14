@@ -1,23 +1,12 @@
-# Topesoul
+# Full Professional Profile
 
-Welcome to Topesoul!
+## Building Solutions for NHS
 
-## Overview
+<Your typing animation HTML/CSS here>
 
-Building Health Tech Solutions
+## Other Sections
 
-![Topesoul Logo](https://example.com/logo.svg)
-
-### Description
-
-This repository contains all the code for our projects.
-
-## Getting Started
-
-1. Clone the repository.
-2. Install dependencies.
-3. Run the application.
-
-## Contributing
-
-Feel free to open issues and contribute to the project!
+- Experience
+- Projects
+- Skills
+- Contact
