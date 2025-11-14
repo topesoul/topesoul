@@ -2,7 +2,7 @@
   
 # 👋 Hey, I'm Temitope
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Healthcare+Tech+Developer;Full-Stack+Engineer;Building+Solutions+for+NHS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Healthcare+Tech+Developer;Full-Stack+Engineer;Building+Solutions+for+Healthcare)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=topesoul&color=0e75b6&style=flat)
 [![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/topeakingbala)
